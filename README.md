@@ -39,4 +39,10 @@ Sou desenvolvedor Delphi a 2 anos, atualmente trabalho no setor de integração 
 </div>
 <hr>
 
+
+
+
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/6a/be/94/6abe94901928b887d3227ef605969a09.gif)
