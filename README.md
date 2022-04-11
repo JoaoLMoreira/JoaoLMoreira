@@ -1,8 +1,6 @@
-<center><div>
-   <img align="right" alt="joao-pic" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=pixel+art+wallpaper+dev&tbm=isch&ved=2ahUKEwi23-jzv4z3AhXCOLkGHXKQClkQ2-cCegQIABAA&oq=pixel+art+wallpaper+dev&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoFCAAQgAQ6BAgAEEM6BAgAEB46BggAEAUQHjoGCAAQCBAeUJoCWK0GYNMHaABwAHgAgAGTAYgByQSSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=kGBUYrbXM8Lx5OUP8qCqyAU&bih=617&biw=1366#imgrc=eDjDbTpHZDnkKM">
-</div></center>
 
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://images6.alphacoders.com/715/thumb-1920-715677.png)
 
 ### Ola, eu sou o joão lucas !! 👋
 <hr>
