@@ -1,6 +1,6 @@
 
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://images6.alphacoders.com/715/thumb-1920-715677.png)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://nextshark.com/wp-content/uploads/2018/01/007.gif)
 
 ### Olá, eu sou o joão lucas !! 👋
 <hr>
