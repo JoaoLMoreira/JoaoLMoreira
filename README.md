@@ -3,12 +3,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://nextshark.com/wp-content/uploads/2018/01/007.gif)
 
 ### Olá, eu sou o joão lucas !! 👋
-<hr>
-<p>Sobre:</p>
-<p>
-Sou desenvolvedor Delphi a 2 anos, atualmente trabalho no setor de integração de uma empresa que Desenvolve Softwares para Gerenciamentos de processos judicias nas áreas de execução fiscal e contencioso geral, dentro do setor meu trabalho é desenvolver Softwares capazes de integrar o sistema principal com bases da divida ativa e prefeituras além de consumir API's que auxiliam o sistema da empresa, esses Softwares são feitos usando Delphi Orientado a objetos e como sistema de banco de dados é usado o Firebird.
-  
-</p>
+
 <hr>
 <p>Tecnologias:</p>
 <div style="display: inline_block"><br>
